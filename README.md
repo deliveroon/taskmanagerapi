@@ -1,6 +1,7 @@
 # README
 
 TaskManagerAPI est développé avec le framework NestJs qui utilise Express.
+Ce projet utilise une stratégie d'authentification Local + Bearer Token
  
 # Installation
 
