@@ -6,8 +6,8 @@ TaskManagerAPI est développé avec le framework NestJs qui utilise Express.
 
 ## Prérequis
 
-Installation de node JS
-Disposer d'une base de donnée MySQL
+### Installation de node JS
+### Disposer d'une base de donnée MySQL
 
 ## Récupération du code
 
@@ -20,15 +20,15 @@ Se placer à la racine du projet et exécuter la commande suivante
 
 ## Variables d'environnements
 
-Renommer le fichier .env-exemple par .env et mettre à jour les variables d'environnements:
+###  Renommer le fichier .env-exemple par .env et mettre à jour les variables d'environnements:
 
-ENV_NAME = 'dev'
-APP_PORT = '3000'
-DB_HOST = 'localhost'
-DB_PORT = '3306'
-DB_USER = 'root'
-DB_PASSWORD = 'root'
-DB_NAME = 'test2'
+### ENV_NAME = 'dev'
+### APP_PORT = '3000'
+### DB_HOST = 'localhost'
+### DB_PORT = '3306'
+### DB_USER = 'root'
+### DB_PASSWORD = 'root'
+### DB_NAME = 'test2'
 
 ## Build
 
